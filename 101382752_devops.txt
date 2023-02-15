@@ -1,2 +1,3 @@
 The DevOps movement started to coalesce some time between 2007 and 2008,
  when IT operations and software development communities raised concerns what they felt was a fatal level of dysfunction in the industry.
+ You'll notice that the DevOps roadmap covers a lot of concepts within software development. That's because DevOps covers the entire software creation and maintenance process from development to operations, which spans the entire technology stack.
