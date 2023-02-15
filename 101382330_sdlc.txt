@@ -1,0 +1,3 @@
+Programming errors is one of the leading reasons why a deployment fails.
+ The frequent release of code occasioned with the DevOps approach ensures problem detection at an earlier stage. With dev and ops teams working together, recovery time is a lot shorter.
+ 
