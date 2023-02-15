@@ -1,2 +1,4 @@
 DevOps is widely used in software development teams and increases efficiency
 in both development and delivery without compromising quality.
+
+DevOps is inspired by Agile development.
