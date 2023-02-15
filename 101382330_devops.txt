@@ -1,0 +1,1 @@
+ It is designed to cover the intrinsic segments as well, such as the history of DevOps, objectives, software development life cycle, virtual development and management tools.
