@@ -2,3 +2,5 @@ The COMP 2156 DevOps course aims to familiarize students with tools and
 practices used in devops to rapidly deliver applications and services.
 
 The course is currently taught by Pritesh Patel.
+
+The course requires one group project and one individual project.
