@@ -2,3 +2,11 @@ Comp 2156 is a DevOps Course Taught in fourth semester od T141. Some of the info
 Course Code COMP 2156
 Teacher’s Name Pritesh Patel
 Email Pritesh.patel2@georgebrown.ca
+
+The Marking evaluation has been divided as follows:-
+Lecture quiz - 8%
+Lab Exercises - 16%
+Assignment 1 - 12%
+Assignment 2 - 14%
+Mid term Exam - 20%
+Final Exam - 30%
