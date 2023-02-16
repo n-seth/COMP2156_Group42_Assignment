@@ -1,3 +1,4 @@
-The Georgebrown college has a branch known as Casa Loma campus which is situated in Toronto. 
- The historic Casa Loma edifice, a fortress-like structure built in the early 20th century, is where the campus is located.
- Business, hospitality, health sciences, community services, media, and design are just a few of the many programmes available on the campus.
+Comp 2156 is a DevOps Course Taught in fourth semester od T141. Some of the information according to Course Information are as follows:
+Course Code COMP 2156
+Teacher’s Name Pritesh Patel
+Email Pritesh.patel2@georgebrown.ca
