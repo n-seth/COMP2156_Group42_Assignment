@@ -1,0 +1,2 @@
+DevOps is a method for delivering high-quality software applications more quickly and reliably by fusing the processes, resources, and culture of software development with IT operations. 
+DevOps engineers make sure that the development, testing, and deployment processes go smoothly, which is essential to the success of software development cycles.
