@@ -1,4 +1,0 @@
-The DevOps movement started to coalesce some time between 2007 and 2008,
- when IT operations and software development communities raised concerns what they felt was a fatal level of dysfunction in the industry.
- You'll notice that the DevOps roadmap covers a lot of concepts within software development. That's because DevOps covers the entire software creation and maintenance process from development to operations, which spans the entire technology stack.
- These tools automate manual tasks, help teams manage complex environments at scale, and keep engineers in control of the high velocity that is enabled by DevOps. AWS provides services that are designed for DevOps and that are built first for use with the AWS cloud.

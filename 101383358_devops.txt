@@ -1,3 +1,0 @@
-Devops is a methodology in the software development and IT industry. Used as a set of practices and tools, Devops integrates and automates the work of software development.
-Devops is famous as it is one of the most sought after careers today and one of the most sought after cultures to be adopted by organizations. With the world rushing, Devops is the key to automation and efficiency.
-career path in DevOps can see you start as a Release Manager, then move up to DevOps Test Engineer, DevOps Cloud Engineer, and finally, a DevOps Architect.
