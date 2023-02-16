@@ -1,2 +1,4 @@
 DevOps is a method for delivering high-quality software applications more quickly and reliably by fusing the processes, resources, and culture of software development with IT operations. 
 DevOps engineers make sure that the development, testing, and deployment processes go smoothly, which is essential to the success of software development cycles.
+
+Importance no.1 :-Collaboration and communication are improved because DevOps unites stakeholders from the development, operations, and other fields to work together as a single team. DevOps engineers are in charge of fostering this cooperation, developing a feeling of shared accountability for producing high-quality software, and making sure that everyone is striving for the same objectives.
