@@ -1,5 +1,0 @@
- It is designed to cover the intrinsic segments as well, such as the history of DevOps, objectives, software development life cycle, virtual development and management tools.
-
- It is mandatory for the DevOps engineer to have a basic knowledge of certain basic programming languages such as Java, Perl and Python as it ensures the DevOps engineer to handle the development team well so as to enable uniform trouble-free flow of application installation, configuration and validation
-
- The national average salary for a Devops Engineer is $94,107 in Canada. Filter by location to see Devops Engineer salaries in your area. Salary estimates are based on 1,159 salaries submitted anonymously to Glassdoor by Devops Engineer employees.
