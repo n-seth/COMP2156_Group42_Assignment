@@ -1,7 +1,0 @@
-Programming errors is one of the leading reasons why a deployment fails.
- The frequent release of code occasioned with the DevOps approach ensures problem detection at an earlier stage. With dev and ops teams working together, recovery time is a lot shorter.
-
- The DevOps process builds quality into the development process, thereby reducing instances of unplanned work. A focus on security during the designing and development stage minimizes the need to remedy security issues later on, thus saving time and freeing more resources to other work.
-  Besides, every member of the team is responsible for quality and security; this collective responsibility ensures team accountability for the final product.
-
-  Though your salary will depend on your role, the average pay for the different roles is not radically different. For instance, a DevOps Release Manager earns an average of $92K, a Site Reliability Engineer $125K, and a DevOps Engineer $115K.  
