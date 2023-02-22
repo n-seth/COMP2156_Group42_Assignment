@@ -1,0 +1,5 @@
+Devops training and familiarization of the team with the internal systems can help you gain knowledge of agile development and inculcate innovation-focused skills.
+The development and operations in Devops need absolute alignment. It focuses on bringing a specific set of goals that ensure coordination among development, operators, and the remaining components of the business.
+Devops is a software development practice that promotes collaboration between development and operations, resulting in faster and more reliable software delivery.
+Devops practices that enable transparency, cooperation, continuous delivery and continuous deployment become embedded in your software development lifecycle.
+This Devops Certification will teach you the fundamentals of DevOps and give you an in-depth understanding of several DevOps technologies.
