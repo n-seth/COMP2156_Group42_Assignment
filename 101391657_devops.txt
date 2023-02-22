@@ -1,0 +1,27 @@
+Comp 2156 is a DevOps Course Taught in fourth semester od T141. Some of the information according to Course Information are as follows:
+
+Teacher’s Name Pritesh Patel
+Email Pritesh.patel2@georgebrown.ca
+Course Code COMP 2156
+
+The Marking evaluation has been divided as follows:-
+Lecture quiz - 8%
+Lab Exercises - 16%
+Assignment 1 - 12%
+Assignment 2 - 14%
+Mid term Exam - 20%
+Final Exam - 30%
+
+Some of the Web refrence for this course are:-
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
+6. https://aws.amazon.com
+7. https://docs.github.com/en/actions
+8. https://www.jenkins.io/
+9. https://azure.microsoft.com/
+10. https://www.atlassian.com/software/jira
+
+Looking Forward to learn about Devops in this Semester. Thank you.
